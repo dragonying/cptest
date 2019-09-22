@@ -1,0 +1,19 @@
+{
+    "name": "dragon/cptest",
+    "description": "composer测试",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "dragonying",
+            "email": "624168796@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload":{
+    	"psr-4":{
+	   "Cmps\\CpTest\\":"src/Cmps/CpTest"
+	}
+    }
+}
