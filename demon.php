@@ -7,6 +7,6 @@
  */
 
 require './vendor/autoload.php';
-use Cmps\CpTest\Tool;
+use ZfyCmps\ZfyCpTest\Tool;
 
 Tool::index();

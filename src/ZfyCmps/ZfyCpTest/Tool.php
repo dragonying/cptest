@@ -6,7 +6,7 @@
  * Time: 10:18
  */
 
-namespace Cmps\CpTest;
+namespace ZfyCmps\ZfyCpTest;
 
 
 class Tool
