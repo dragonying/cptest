@@ -12,7 +12,7 @@ namespace ZfyCmps\ZfyCpTest;
 class Tool
 {
     public static function index(){
-        echo "Hello World ！";
+        echo "Hello World ！my name is zfy";
     }
 
 }
